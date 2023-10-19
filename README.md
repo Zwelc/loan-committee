@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Introduction
+
+At, Loans R Us, a fictional loan provider, loans are given out to customers based on the votes of 3 committee members. Their process is to give all the relevant information about the loan to the members and then have each rate the likelihood that the loan will work out on a scale from 1 to 5. The company is moving towards a hybrid working arrangement and would like a tool that will allow this process to take place remotely and asynchronously. Further, the company would like to formalize the process and prevent the committee members from influencing each other. Thus, they would like this tool to be created. This project is to create a proof of concept implementation of this tool.
+
 ## Getting Started
 
 First, run the development server:
@@ -32,9 +36,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
